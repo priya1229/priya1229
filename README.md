@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priya1229&label=Profile%20views&color=0e75b6&style=flat&color=151515" alt="priya1229" />
+  <img src="(https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar)" alt="priya1229" />
 </p>
 
 <p align="center">
@@ -26,10 +26,10 @@
   <a href="https://linkedin.com/in/priyarajak" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyarajak" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/your_twitter" target="blank">
+  <a href="https://twitter.com/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="your_twitter" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/your_instagram" target="blank">
+  <a href="https://instagram.com/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-alt.svg" alt="your_instagram" height="30" width="40" />
   </a>
 </p>
