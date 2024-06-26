@@ -26,12 +26,7 @@
   <a href="https://linkedin.com/in/priyarajak" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyarajak" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/your_twitter" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="your_twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/_.priy_a/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-alt.svg" alt="your_instagram" height="30" width="40" />
-  </a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
