@@ -29,7 +29,7 @@
   <a href="https://twitter.com/your_twitter" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="your_twitter" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/" target="blank">
+  <a href="https://www.instagram.com/_.priy_a/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-alt.svg" alt="your_instagram" height="30" width="40" />
   </a>
 </p>
